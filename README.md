@@ -51,11 +51,12 @@ Based on `final.csv` combined dataset:
 
 ## Required Libraries
 This notebook requires the following libraries to be installed:
-pandas 1.1.3
-numpy 1.19.2
-matplotlib 3.3.2
-seaborn 0.11.0
-plotly 4.12.0
-IPython 7.18.1
+
+- pandas 1.1.3
+- numpy 1.19.2
+- matplotlib 3.3.2
+- seaborn 0.11.0
+- plotly 4.12.0
+- IPython 7.18.1
 
 Notebook can be viewed online [here](https://nbviewer.jupyter.org/github/eugeneyan84/SAT-ACT-Analysis/blob/main/SAT-ACT-Analysis.ipynb).
