@@ -48,3 +48,14 @@ Based on `final.csv` combined dataset:
 |act_reading_2018 | float64 | ACT_2018 | State-level mean score for Reading (ACT) in 2018 |
 |act_science_2018 | float64 | ACT_2018 | State-level mean score for Science (ACT) in 2018 |
 
+
+## Required Libraries
+This notebook requires the following libraries to be installed:
+pandas 1.1.3
+numpy 1.19.2
+matplotlib 3.3.2
+seaborn 0.11.0
+plotly 4.12.0
+IPython 7.18.1
+
+Notebook can be viewed online [here](https://nbviewer.jupyter.org/github/eugeneyan84/SAT-ACT-Analysis/blob/main/SAT-ACT-Analysis.ipynb).
