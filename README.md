@@ -1,4 +1,4 @@
-# Exploratory Data Analysis: SAT/ACT participation rates and scores in United States (2017 & 2018)
+# SAT/ACT participation rates and scores in United States (2017 & 2018)
 
 ## Problem Statement
 In this project, we analyse trends in SAT and ACT participation rates and scores across every state in the United States. We seek to identify factors that may affect participation rates and scores, and make recommendations for where resources can be channeled to for best effect.
